@@ -1,6 +1,7 @@
 # Formulario con Tailwind CSS
 
 ¡Hola! Este es un proyecto simple donde he creado un formulario utilizando Tailwind CSS. ¡Esperamos que te guste! 😊
+![Formulario](./assets/readme.png)
 
 ## Estructura del Proyecto
 
